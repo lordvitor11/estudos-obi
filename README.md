@@ -8,6 +8,6 @@ Estou usando [NodeJS](https://nodejs.org/en) para resolução dos desafios.
 
 O trabalho está seguindo da seguinte maneira:
 - Resolução de desafios no beecrowd(apenas inicialmente);
-- Resolver pelo menos 5 desafios por dia.
+- Resolver pelo menos 5 desafios a cada dois dias.
 
 Após 30 dias, um teste será feito no site da OBI e o resultado adicionado aqui no repositório, seguindo as regras da prova.
